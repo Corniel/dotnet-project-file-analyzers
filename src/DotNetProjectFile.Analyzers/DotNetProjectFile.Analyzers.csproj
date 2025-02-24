@@ -49,6 +49,7 @@
 
   <ItemGroup Label="Roslyn dependencies">
     <PackageReference Include="Microsoft.CodeAnalysis.Common" Version="4.10.0" ExcludeAssets="runtime" />
+    <PackageReference Include="Microsoft.CodeAnalysis.Workspaces.Common" Version="4.10.0" ExcludeAssets="runtime" />
   </ItemGroup>
 
   <ItemGroup Label="Analyzers">
